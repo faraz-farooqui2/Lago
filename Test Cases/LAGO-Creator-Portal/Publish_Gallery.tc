@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Publish_Gallery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5dda8fe7-237c-418b-bf14-98136cba1a1c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>710f26c0-3b7f-4ede-86dd-f20321d75dd6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>017990d6-c104-4aee-8dd5-312f844cac1a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>20e2f693-f580-4239-b0bb-94ef13b0cf30</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Creator-Portal/OR_EDIT_GALLERY/btn_Publish')</defaultValue>
+      <description></description>
+      <id>710f26c0-3b7f-4ede-86dd-f20321d75dd6</id>
+      <masked>false</masked>
+      <name>btn_Publish</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Creator-Portal/OR_EDIT_GALLERY/btn_Publish_Disabled')</defaultValue>
+      <description></description>
+      <id>017990d6-c104-4aee-8dd5-312f844cac1a</id>
+      <masked>false</masked>
+      <name>btn_Publish_Disable</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Creator-Portal/OR_EDIT_GALLERY/verification_Publish_Success')</defaultValue>
+      <description></description>
+      <id>20e2f693-f580-4239-b0bb-94ef13b0cf30</id>
+      <masked>false</masked>
+      <name>verification_Publish_Success</name>
+   </variable>
+</TestCaseEntity>

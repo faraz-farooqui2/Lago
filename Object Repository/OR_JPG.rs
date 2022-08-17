@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OR_JPG</name>
+   <tag></tag>
+   <elementGuidId>c8291b34-9f07-471d-93ad-b45940fa572c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//body/img[@src]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//body/img[@src]</value>
+      <webElementGuid>bd6277c7-5960-4ef7-8f8c-54a44a8bff5d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "2E8CF17EAFB22780B84DD1392222E8A0",
+  "keywordClasses": [
+    {
+      "name": "Lago_Login",
+      "keywordMethods": [
+        {
+          "name": "Lago_login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

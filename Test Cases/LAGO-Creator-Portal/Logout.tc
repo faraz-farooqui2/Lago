@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad2869b1-2cc5-46b2-9bc1-ab61287adb9c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>abf2a5b7-a468-464b-b7ef-3b70c20a712f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Creator-Portal/OR_LOGIN/txt_login')</defaultValue>
+      <description></description>
+      <id>abf2a5b7-a468-464b-b7ef-3b70c20a712f</id>
+      <masked>false</masked>
+      <name>verification_login_field</name>
+   </variable>
+</TestCaseEntity>

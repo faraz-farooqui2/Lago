@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OR_WAV_Video</name>
+   <tag></tag>
+   <elementGuidId>893c5325-02c4-44f4-a105-f9f1c78d57b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//video/source[contains(@src,&quot;.wav&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//video/source[contains(@src,&quot;.wav&quot;)]</value>
+      <webElementGuid>1c31a901-5a3e-4235-b933-3b718e9ab358</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_next_password</name>
+   <tag></tag>
+   <elementGuidId>c7f69047-c44d-4b49-93d9-1f951e08dd92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div[2]/div[2]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div[2]/div[2]/div[2]/button</value>
+      <webElementGuid>b83a70a1-84b1-4d12-be54-10fae90454d3</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

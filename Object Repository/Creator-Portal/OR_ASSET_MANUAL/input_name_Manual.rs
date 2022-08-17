@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_name_Manual</name>
+   <tag></tag>
+   <elementGuidId>377184a9-9c22-4c6c-860c-913b960fddb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name=&quot;name&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name=&quot;name&quot;]</value>
+      <webElementGuid>5aecb126-771b-4a6d-bc4e-8a3187148554</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

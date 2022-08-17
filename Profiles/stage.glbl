@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>stage</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://app-stage.lagoframe.com/login'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>folderPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/Users/mac/Katalon Studio/LAGO/Files/'</initValue>
+      <name>folderPathMac</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'gallery_upload.jpeg'</initValue>
+      <name>fileName_Gallery</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'asset_upload.jpeg'</initValue>
+      <name>fileName_Asset</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://graph-stage.lagoframe.com/graphql/'</initValue>
+      <name>baseurl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Resources/lago-release.apk'</initValue>
+      <name>Lago_Staging_apk</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

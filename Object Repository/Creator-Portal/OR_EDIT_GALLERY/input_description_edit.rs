@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_description_edit</name>
+   <tag></tag>
+   <elementGuidId>3abbf92b-b9fc-472e-b52e-fc29f76f3cd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//textArea[@id=&quot;description-input&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//textArea[@id=&quot;description-input&quot;]</value>
+      <webElementGuid>b6f17ca9-cce8-46fc-b07a-bbc2f656e269</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>OR_MP4_VIdeo</name>
+   <tag></tag>
+   <elementGuidId>ac26c9c2-2258-4dff-99a5-e61345f896eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//video/source[@type=&quot;video/mp4&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//video/source[@type=&quot;video/mp4&quot;]</value>
+      <webElementGuid>c583c7a6-f2a7-44c8-8dc1-ab7bca82aee0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

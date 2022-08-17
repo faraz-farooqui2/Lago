@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_create</name>
+   <tag></tag>
+   <elementGuidId>71fc5c88-e776-48d8-ae79-e12d5a76bd3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[contains(text(),&quot;CREATE&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[contains(text(),&quot;CREATE&quot;)]</value>
+      <webElementGuid>bea2a1b2-271f-4f6d-aaea-bc9e978d9d69</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_tokenId</name>
+   <tag></tag>
+   <elementGuidId>39037a0f-5901-4245-bcbc-abebdf7d0833</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name=&quot;tokenId&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name=&quot;tokenId&quot;]</value>
+      <webElementGuid>2e240920-7608-4194-8f17-e88918e2b732</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

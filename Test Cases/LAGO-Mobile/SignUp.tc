@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SignUp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4c3fea6b-a4c8-4d26-9566-b591d84ddb67</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a0c55967-2f67-4956-97cf-e017a4657931</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3bef7df1-8d7e-451b-8e97-4f64b24a5a80</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3a6508dd-eef6-4619-a0f1-8b0db1bcc98b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8793e157-c3f7-45f1-933f-f1de74aa0654</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dd65fc0c-e743-4664-ae11-c328e94cfa12</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>80e890d6-65f4-497e-b7f7-525c73f371b4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ae97b54c-075e-4358-bf5e-a853620ab86e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0fa55aa4-21a1-448f-bc96-746b4faefcb9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>findTestObject('Lago/lago sign up/android.widget.Button')</defaultValue>
+      <description></description>
+      <id>a0c55967-2f67-4956-97cf-e017a4657931</id>
+      <masked>false</masked>
+      <name>create_account</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Lago/lago sign up/email button')</defaultValue>
+      <description></description>
+      <id>3bef7df1-8d7e-451b-8e97-4f64b24a5a80</id>
+      <masked>false</masked>
+      <name>email_btn</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Lago/lago sign up/Emai field')</defaultValue>
+      <description></description>
+      <id>3a6508dd-eef6-4619-a0f1-8b0db1bcc98b</id>
+      <masked>false</masked>
+      <name>email_f</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Lago/lago sign up/android.widget.EditText - Password')</defaultValue>
+      <description></description>
+      <id>8793e157-c3f7-45f1-933f-f1de74aa0654</id>
+      <masked>false</masked>
+      <name>pwd_f</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Lago/lago sign up/signup_next_btn')</defaultValue>
+      <description></description>
+      <id>dd65fc0c-e743-4664-ae11-c328e94cfa12</id>
+      <masked>false</masked>
+      <name>next_btn</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Lago/lago sign up/agree terms final')</defaultValue>
+      <description></description>
+      <id>80e890d6-65f4-497e-b7f7-525c73f371b4</id>
+      <masked>false</masked>
+      <name>agree_term_btn</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Lago/lago sign up/agree_privacy_policy_btn')</defaultValue>
+      <description></description>
+      <id>ae97b54c-075e-4358-bf5e-a853620ab86e</id>
+      <masked>false</masked>
+      <name>agree_privacy_btn</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestObject('Lago/lago sign up/back_to_login_btn')</defaultValue>
+      <description></description>
+      <id>0fa55aa4-21a1-448f-bc96-746b4faefcb9</id>
+      <masked>false</masked>
+      <name>back_to_login_btn</name>
+   </variable>
+</TestCaseEntity>

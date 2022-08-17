@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "D13D446A70190313076867EB1C898617",
+  "keywordClasses": [
+    {
+      "name": "customswipe",
+      "keywordMethods": [
+        {
+          "name": "swipe3x",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "swipe12x",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

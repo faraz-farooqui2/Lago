@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_assetURL</name>
+   <tag></tag>
+   <elementGuidId>364773e8-e214-4bd1-bd60-f693e16ce3ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@name=&quot;assetUrl&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@name=&quot;assetUrl&quot;]</value>
+      <webElementGuid>c6da090d-b6bf-420e-91de-26a9a0a32cc2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

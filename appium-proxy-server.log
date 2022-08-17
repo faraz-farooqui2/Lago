@@ -1,0 +1,23 @@
+ss.add_fd(3)
+ss.recv fd=3 len=294
+ss.recv fd=3 len=851
+ss.add_server_fd(4)
+ss.add_fd(6)
+wi.send_packet[174]:
+ 00 00 00 AA 62 70 6C 69 73 74 30 30 D2 01 03 02 04 5A 5F  ....bplist00.....Z_
+ 5F 73 65 6C 65 63 74 6F 72 5F 10 16 5F 72 70 63 5F 72 65  _selector_.._rpc_re
+ 70 6F 72 74 49 64 65 6E 74 69 66 69 65 72 3A 5A 5F 5F 61  portIdentifier:Z__a
+ 72 67 75 6D 65 6E 74 D1 05 06 5F 10 1A 57 49 52 43 6F 6E  rgument..._..WIRCon
+ 6E 65 63 74 69 6F 6E 49 64 65 6E 74 69 66 69 65 72 4B 65  nectionIdentifierKe
+ 79 5F 10 24 30 42 44 33 43 34 37 45 2D 36 39 37 35 2D 34  y_.$0BD3C47E-6975-4
+ 31 37 32 2D 42 44 31 43 2D 33 31 33 31 43 33 41 45 32 32  172-BD1C-3131C3AE22
+ 45 36 08 0D 18 31 3C 3F 5C 00 00 00 00 00 00 01 01 00 00  E6...1<?\..........
+ 00 00 00 00 00 07 00 00 00 00 00 00 00 00 00 00 00 00 00  ...................
+ 00 00 83                                                  ...
+ss.failed fd=6
+ss.remove_server_fd(4)
+Unable to connect to iPhone (e45864710063fb3dc7ad3d8616d42b891ebb07d3)
+  Please verify that Settings > Safari > Advanced > Web Inspector = ON
+ss.remove_fd(6)
+ss.recv fd=3 len=296
+ss.remove_fd(3)

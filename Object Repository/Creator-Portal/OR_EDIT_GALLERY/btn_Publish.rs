@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Publish</name>
+   <tag></tag>
+   <elementGuidId>272d4909-ae7d-47f6-aa68-1543d5916fa6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[text()=&quot;Publish&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//button[text()=&quot;Publish&quot;]</value>
+      <webElementGuid>1fb1db29-976b-4870-8556-610617e41779</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
